@@ -1,0 +1,15 @@
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\bin\Debug\net6.0\oddoreven.exe
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\bin\Debug\net6.0\oddoreven.deps.json
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\bin\Debug\net6.0\oddoreven.runtimeconfig.json
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\bin\Debug\net6.0\oddoreven.dll
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\bin\Debug\net6.0\oddoreven.pdb
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\obj\Debug\net6.0\oddoreven.csproj.AssemblyReference.cache
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\obj\Debug\net6.0\oddoreven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\obj\Debug\net6.0\oddoreven.AssemblyInfoInputs.cache
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\obj\Debug\net6.0\oddoreven.AssemblyInfo.cs
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\obj\Debug\net6.0\oddoreven.csproj.CoreCompileInputs.cache
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\obj\Debug\net6.0\oddoreven.dll
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\obj\Debug\net6.0\refint\oddoreven.dll
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\obj\Debug\net6.0\oddoreven.pdb
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\obj\Debug\net6.0\oddoreven.genruntimeconfig.cache
+C:\Users\slend\source\repos\Week3Andswitch\oddoreven\obj\Debug\net6.0\ref\oddoreven.dll
